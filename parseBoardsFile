@@ -6,7 +6,7 @@ import re
 
 
 class ParseBoardFile(object):
-    """Class tht handles parses of Arduino boards.txt file."""
+    """Class the handles parses of Arduino boards.txt file."""
 
     OP_READ = 'read'
     OP_DUMP = 'dump'
