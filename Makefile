@@ -1,6 +1,6 @@
 ARDUINO_DIR = $(ARDUINO_IDE)
 BOARD_TAG = uno
-ARDUINO_PORT = /dev/ttyACM0
+ARDUINO_PORT = /dev/ttyUSB0
 ARDUINO_LIBS =
 AVR_TOOLS_PATH = $(HOME)/opt/avr/bin
 ARDUINO_ETC_PATH = $(ARDUINO_DIR)/hardware/tools/avr/etc/
